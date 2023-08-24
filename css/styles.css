@@ -137,7 +137,7 @@ h2 {
     border-radius: 50%;
   }
   .running__portrait {
-    width: 100px;
+    width: 400px;
     height: auto;
     border-radius: 15%;
     filter: drop-shadow(2px 2px 2px var(--running-shadow));
@@ -260,6 +260,7 @@ h2 {
       width: auto;
       min-height: auto;
       margin: var(--primary-margin);
+      border-radius: 5%;
     }
     .grid__item:last-child {
       grid-column: 3 / 3;
