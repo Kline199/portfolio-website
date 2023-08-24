@@ -165,7 +165,7 @@ h2 {
     border-radius: 50%;
   }
   .running__portrait {
-    width: 100px;
+    width: 400px;
     height: auto;
     border-radius: 15%;
     -webkit-filter: drop-shadow(2px 2px 2px rgb(63, 62, 62));
